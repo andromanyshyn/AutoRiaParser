@@ -1,6 +1,5 @@
 # Project AutoRiaScraping
-The script collects information from the site for selling cars.
-___
+##### The script collects information from the site for selling cars.
 ## Installation:
     1.Clones repository from github
     2.Create a virtual environment
@@ -12,4 +11,4 @@ ___
 
 ### Result:
 * The information we receive will be written to a json file
-```Auto Ria.json``` that will appear in our project
+```Auto Ria.json``` that will appear in project.
